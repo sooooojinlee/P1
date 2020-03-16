@@ -16,56 +16,56 @@
 
 #### 전체 구조도
 <div>
-<src="https://user-images.githubusercontent.com/51358226/76726498-a3d9c480-6794-11ea-984f-4e0b0d521d5f.png">
-<\div>
+<img src="https://user-images.githubusercontent.com/51358226/76726498-a3d9c480-6794-11ea-984f-4e0b0d521d5f.png">
+</div>
   
 ###
 <details>
  <summary> References </summary>
 <div markdown="1">
   
-[1] Naver Labs, “Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates”, CVPR, 2019. 
-[2] A. Gordo, J. Almazan, J. Revaud, and D. Larlus. “Deep image retrieval: Learning global representations for image search.” In ECCV, 2016. 
-[3] E. Ustinova and V. Lempitsky. “Learning deep embeddings with histogram loss.” In NIPS, 2016. 
+[1] Naver Labs, “Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates”, CVPR, 2019.  
+[2] A. Gordo, J. Almazan, J. Revaud, and D. Larlus. “Deep image retrieval: Learning global representations for image search.” In ECCV, 2016.  
+[3] E. Ustinova and V. Lempitsky. “Learning deep embeddings with histogram loss.” In NIPS, 2016.  
 [3] Deeplearning.ai. "C4W4L04 Triplet loss." Online video. Youtube, 2017.11.7. Web. 
-(https://www.youtube.com/watch?v=d2XB5-tuCWU) 
+(https://www.youtube.com/watch?v=d2XB5-tuCWU)  
 [4] Naver Labs, “Indoor Map Self-Update using CV: Learning to Detect Changes in POI” 
-(https://www.slideshare.net/deview/242pcd-public) 
+(https://www.slideshare.net/deview/242pcd-public)  
 [5] Naver Labs, "컴퓨터 비전을 이용한 실내 지도 자동 업데이트 방법: 딥러닝을 통한 POI 변화 탐 지" 
-(https://tv.naver.com/v/4580314) 
+(https://tv.naver.com/v/4580314)  
 [6] “Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names”, 2019.8.3. Web. 
-(https://gombru.github.io/2019/04/03/ranking_loss/) 
-[7] Florian Schroff, Dmitry Kalenichenko, James Philbin, “FaceNet: A Unified Embedding for Face Recognition and Clustering”, 2015. 
+(https://gombru.github.io/2019/04/03/ranking_loss/)  
+[7] Florian Schroff, Dmitry Kalenichenko, James Philbin, “FaceNet: A Unified Embedding for Face Recognition and Clustering”, 2015.  
 [8] Jérome Revaud, “Making maps evergreen with deep learning, robots and computer vision”, 2019. Web. 
-(https://europe.naverlabs.com/blog/making-maps-evergreen/) 
+(https://europe.naverlabs.com/blog/making-maps-evergreen/)  
 [9] Shibsankar Das, “Image similarity using Triplet Loss”, 2019.7.17. Web. 
-(https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973) 
-[10] https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning 
-[11] https://www.youtube.com/watch?v=PjCwRK2i2yo 
-[12] https://github.com/krasserm/face-recognition 
+(https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973)  
+[10] https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning  
+[11] https://www.youtube.com/watch?v=PjCwRK2i2yo  
+[12] https://github.com/krasserm/face-recognition  
 [13] Boosting Standard Classification Architectures Through a Ranking Regularizer 
 60 
  
-(https://arxiv.org/pdf/1901.08616.pdf) 
+(https://arxiv.org/pdf/1901.08616.pdf)  
 [14] Beyond triplet loss: a deep quadruplet network for person re-identification 
-(https://arxiv.org/pdf/1704.01719.pdf) 
-[15] https://www.youtube.com/watch?v=mUueSPmcOBc 
-[16] https://www.youtube.com/watch?v=38hn-FpRaJs&t=1s 
-[17] https://www.youtube.com/watch?v=3vnMY-BlwmU 
-[18] https://www.biz-gis.com/index.php?document_srl=47813&mid=GISFAQ 
-[19] https://www.youtube.com/watch?v=mUueSPmcOBc 
-[20] https://www.youtube.com/watch?v=38hn-FpRaJs&t=1s 
-[21] https://www.youtube.com/watch?v=3vnMY-BlwmU 
-[22] https://www.biz-gis.com/index.php?document_srl=47813&mid=GISFAQ 
-[23] https://www.youtube.com/watch?v=mUueSPmcOBc 
-[24] https://www.youtube.com/watch?v=38hn-FpRaJs&t=1s 
-[25] https://www.youtube.com/watch?v=3vnMY-BlwmU 
-[26] https://www.biz-gis.com/index.php?document_srl=47813&mid=GISFAQ 
-[27] https://keras.io/preprocessing/image/ 
-[28] https://towardsdatascience.com/when-conventional-wisdom-fails-revisiting-dataaugmentation-for-self-driving-cars-4831998c5509 
-[29] Elad Hoffer, Nir Ailon, "DEEP METRIC LEARNING USING TRIPLET NETWORK" 
+(https://arxiv.org/pdf/1704.01719.pdf)  
+[15] https://www.youtube.com/watch?v=mUueSPmcOBc  
+[16] https://www.youtube.com/watch?v=38hn-FpRaJs&t=1s  
+[17] https://www.youtube.com/watch?v=3vnMY-BlwmU  
+[18] https://www.biz-gis.com/index.php?document_srl=47813&mid=GISFAQ  
+[19] https://www.youtube.com/watch?v=mUueSPmcOBc  
+[20] https://www.youtube.com/watch?v=38hn-FpRaJs&t=1s  
+[21] https://www.youtube.com/watch?v=3vnMY-BlwmU  
+[22] https://www.biz-gis.com/index.php?document_srl=47813&mid=GISFAQ  
+[23] https://www.youtube.com/watch?v=mUueSPmcOBc  
+[24] https://www.youtube.com/watch?v=38hn-FpRaJs&t=1s  
+[25] https://www.youtube.com/watch?v=3vnMY-BlwmU  
+[26] https://www.biz-gis.com/index.php?document_srl=47813&mid=GISFAQ  
+[27] https://keras.io/preprocessing/image/  
+[28] https://towardsdatascience.com/when-conventional-wisdom-fails-revisiting-dataaugmentation-for-self-driving-cars-4831998c5509  
+[29] Elad Hoffer, Nir Ailon, "DEEP METRIC LEARNING USING TRIPLET NETWORK"  
 [30] Shibsankar Das, "Image similarity using Triplet Loss" 
- (https://github.com/sanku-lib/image_triplet_loss) 
+ (https://github.com/sanku-lib/image_triplet_loss)  
   
 </div>
 </details>
